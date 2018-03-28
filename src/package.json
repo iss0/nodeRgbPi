@@ -1,0 +1,15 @@
+{
+  "name": "raspi-blaster",
+  "version": "0.0.0",
+  "description": "RaspiBlaster",
+  "main": "app.js",
+  "author": {
+    "name": "jsteffen"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  },
+  "dependencies": {
+    "pi-blaster.js": "^0.1.1"
+  }
+}
